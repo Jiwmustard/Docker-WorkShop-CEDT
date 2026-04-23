@@ -104,7 +104,7 @@ git push
 # Then open the "Actions" tab on your fork and watch the job run.
 ```
 
-When `build-scan-push` goes green, your image is live on Docker Hub at
+When `build-scan-push` goes green, your image is live on Docker Hub at 
 `docker.io/<your-username>/workshop-app:latest` and `:${{ github.sha }}`.
 
 ---
