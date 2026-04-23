@@ -100,7 +100,7 @@ Delete the `workflow_dispatch:` placeholder trigger after you add the real ones 
 ```bash
 git add .
 git commit -m "complete docker workshop"
-git push
+git push 
 # Then open the "Actions" tab on your fork and watch the job run.
 ```
 
